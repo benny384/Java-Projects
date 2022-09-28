@@ -63,7 +63,6 @@ case 3: System.out.println(zahl1 + " * " + zahl2 + "=" + erg3);break;
 
 case 4: System.out.println(zahl1 + " / " + zahl2 + "=" + erg4);break;
 
-default: System.out.println("Follow me on Youtube: youtube.com/xoor");break;
 
 
 }
